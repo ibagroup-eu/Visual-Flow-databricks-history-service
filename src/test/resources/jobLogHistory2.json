@@ -1,0 +1,11 @@
+{
+  "id": 8660172650147071344,
+  "timestamp": 123456,
+  "jobLogs": [
+    {
+      "timestamp": "24/07/02 20:00:19",
+      "level": "ERROR",
+      "message": "Error when before run"
+    }
+  ]
+}
